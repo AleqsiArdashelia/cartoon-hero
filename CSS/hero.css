@@ -4,13 +4,14 @@ body{
     font-size: 20px;
     line-height: 30px;
     background-color: #e2f7fd;
+    
 }
 h1, h2{
     font-family: 'Russo One', sans-serif;
 }
 
 header{
-    background-color: #4935cb;
+    background-color: #4935cb; 
     text-align: center;
     padding-top: 50px;
     padding-bottom: 50px;
@@ -24,7 +25,7 @@ header h1{
 header img{
     border-radius: 170px;
     width: 300px;
-    border: 20px solid #4cdcce ;
+    border: 20px solid #4cdcce ; 
 }
 main{
     
@@ -74,5 +75,4 @@ footer a:hover{
     color: #999999;
     margin: 0;
     font-style: italic;
-
 }
